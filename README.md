@@ -1,2 +1,4 @@
 # mkcmd
-Make any executable file callable globally with this. 
+Make any executable file callable globally on linux with this. 
+
+
